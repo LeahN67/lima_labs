@@ -1,0 +1,30 @@
+{
+    "locations": [
+        {
+            "location_name": "Nairobi",
+            "monthly_weather": [
+                {
+                    "name": "January",
+                    "average_temperature": 27
+                },
+                {
+                    "name": "February",
+                    "average_temperature": 23
+                }
+            ]
+        },
+        {
+            "location_name": "Amsterdam",
+            "monthly_weather": [
+                {
+                    "name": "January",
+                    "average_temperature": 15
+                },
+                {
+                    "name": "February",
+                    "average_temperature": 14
+                }
+            ]
+        }
+    ]
+}

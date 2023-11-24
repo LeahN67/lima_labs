@@ -1,0 +1,121 @@
+{
+    "customer": "Global Farming",
+    "farms": [
+        {
+            "farm": "Farm 1",
+            "location": "Nairobi",
+            "fields": [
+                {
+                    "name": "Field A",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 3105
+                        },
+                        {
+                            "month": "February",
+                            "production": 1340
+                        }
+                    ]
+                },
+                {
+                    "name": "Field C",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 2142
+                        },
+                        {
+                            "month": "February",
+                            "production": 1394
+                        }
+                    ]
+                },
+                {
+                    "name": "Field G",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 5430
+                        },
+                        {
+                            "month": "February",
+                            "production": 3495
+                        }
+                    ]
+                },
+                {
+                    "name": "Field T",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 3475
+                        },
+                        {
+                            "month": "February",
+                            "production": 1785
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "farm": "Farm 2",
+            "location": "Amsterdam",
+            "fields": [
+                {
+                    "name": "Field AT",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 7945
+                        },
+                        {
+                            "month": "February",
+                            "production": 7105
+                        }
+                    ]
+                },
+                {
+                    "name": "Field TA",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 9912
+                        },
+                        {
+                            "month": "February",
+                            "production": 9312
+                        }
+                    ]
+                },
+                {
+                    "name": "Field CG",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 10235
+                        },
+                        {
+                            "month": "February",
+                            "production": 10110
+                        }
+                    ]
+                },
+                {
+                    "name": "Field GC",
+                    "productions": [
+                        {
+                            "month": "January",
+                            "production": 5983
+                        },
+                        {
+                            "month": "February",
+                            "production": 5558
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

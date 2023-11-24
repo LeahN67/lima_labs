@@ -1,0 +1,17 @@
+customer,farm,location,field,month,production
+Global Farming,Farm 1,Nairobi,Field A,January,3105
+Global Farming,Farm 1,Nairobi,Field A,February,1340
+Global Farming,Farm 1,Nairobi,Field C,January,2142
+Global Farming,Farm 1,Nairobi,Field C,February,1394
+Global Farming,Farm 1,Nairobi,Field G,January,5430
+Global Farming,Farm 1,Nairobi,Field G,February,3495
+Global Farming,Farm 1,Nairobi,Field T,January,3475
+Global Farming,Farm 1,Nairobi,Field T,February,1785
+Global Farming,Farm 2,Amsterdam,Field AT,January,7945
+Global Farming,Farm 2,Amsterdam,Field AT,February,7105
+Global Farming,Farm 2,Amsterdam,Field TA,January,9912
+Global Farming,Farm 2,Amsterdam,Field TA,February,9312
+Global Farming,Farm 2,Amsterdam,Field CG,January,10235
+Global Farming,Farm 2,Amsterdam,Field CG,February,10110
+Global Farming,Farm 2,Amsterdam,Field GC,January,5983
+Global Farming,Farm 2,Amsterdam,Field GC,February,5558
