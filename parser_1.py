@@ -1,7 +1,9 @@
+# Import modules
 import json
 import pandas as pd
+import matplotlib.pyplot as plt
 
-#Load JSON data from a file
+# Load JSON data from a file
 with open("mock_data.json") as f:
     data = json.load(f)
 
@@ -37,19 +39,18 @@ pivoted_df = pivoted_df[['January', 'February']]
 
 print(pivoted_df)
 
-
-import matplotlib.pyplot as plt
-
+# Plot production by Field and Month
 pivoted_df.plot(kind='bar')
+
 plt.xlabel('Field')
 plt.ylabel('Production')
 plt.title('Production by Field and Month')
 plt.legend(title='Month')
+
 plt.show()
 
 
-
-#save to csv
+# Save to csv
 df.to_csv('mock_data.csv', index=False)
 
 
